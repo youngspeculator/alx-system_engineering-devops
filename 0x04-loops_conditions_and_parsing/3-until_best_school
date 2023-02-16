@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# displays Best School 10X uses [until]
+
+i=1
+
+until [[ $i == 10 ]]
+do
+	echo "Best School"
+	((i++))
+done
