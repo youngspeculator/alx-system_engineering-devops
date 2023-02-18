@@ -5,7 +5,7 @@ trap interrup SIGTERM
 
 interrup()
 {
-	echo "I am invincible"
+	echo "I am invincible!!!"
 }
 
 while true
