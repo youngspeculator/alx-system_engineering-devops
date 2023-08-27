@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-# a bash script which displays Best School 10X
-
-i=1
-for i in {1..10};
-do
-	echo "Best School"
-done
