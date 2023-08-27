@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# diplays PID, process name, processes with word bash
-pgrep bash | sed -e 's/$/ bash'
